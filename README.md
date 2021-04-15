@@ -1,8 +1,29 @@
-# Getting Started with Create React App
+# Clone Series: Amazon App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-## Available Scripts
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Amazon is, by far, the most in demand; most dynamic; most profitable e-commerce store to ever exsit. Take a look at this fully functioning [AMAZON Clone App](https://clone-be4d3.web.app/) built using Firebase and REACT JS.
+
+<!-- GETTING STARTED -->
+## Getting Started
 
 In the project directory, you can run:
 
@@ -29,42 +50,32 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Built With
+* [Firebase](https://firebase.google.com/)
+* [Material UI](https://material-ui.com/components/material-icons/)
+* React.js
+* User Authentication
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- OVERVIEW -->
+## Overview
+![Screenshot 2021-04-15 005732](https://user-images.githubusercontent.com/73044038/114823329-ff57f680-9d88-11eb-919a-fcabde970cf7.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot 2021-04-15 005818](https://user-images.githubusercontent.com/73044038/114823333-00892380-9d89-11eb-9cae-3acc381708b1.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Screenshot 2021-04-15 005905](https://user-images.githubusercontent.com/73044038/114823334-00892380-9d89-11eb-9c5a-b22cbcedc305.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<!-- LICENSE -->
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
 
-## Learn More
+<!-- CONTACT -->
+## Contact
+[Github](https://github.com/inalo1) - [LinkedIn](https://www.linkedin.com/in/ivygabriellenalo/) - [Email](nalo.ivielle13@gmail.com)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Project Link: [https://clone-be4d3.web.app/](https://clone-be4d3.web.app/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Clever Programmers](https://github.com/CleverProgrammers)
+* [Othneil Drew](https://github.com/othneildrew)
+* [Best README Template](https://github.com/othneildrew/Best-README-Template) 
